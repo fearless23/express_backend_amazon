@@ -1,0 +1,21 @@
+{
+  "name": "express_backend",
+  "version": "0.0.1",
+  "description": "Express Server for Amazon Product API and Angular FrontEnd",
+  "main": "server.js",
+  "engines": {
+    "node": "10.0.0"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Jaspreet Singh <jaspreetsingh2379@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apac": "^3.0.2",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3"
+  }
+}
